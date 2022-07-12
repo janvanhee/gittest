@@ -1,1 +1,3 @@
 #git leren
+
+- aanpassing maken
