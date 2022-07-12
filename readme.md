@@ -1,5 +1,5 @@
 #git leren
 
-- aanpassing maken
+- aanpassing maken in eerste puntje
 - tweede puntje toevoegen
 - derde puntje
